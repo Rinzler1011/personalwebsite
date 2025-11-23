@@ -8,6 +8,9 @@ import zhLinkroll from "./zh-cn/linkroll.yaml";
 import ja from "./ja/index.yaml";
 import jaScript from "./ja/script.yaml";
 import jaLinkroll from "./ja/linkroll.yaml";
+import ru from "./ru/index.yaml";
+import ruScript from "./ru/script.yaml";
+import ruLinkroll from "./ru/linkroll.yaml";
 
 // Translation object mapping locale codes to their respective translation data
 const translations = {
@@ -23,6 +26,11 @@ const translations = {
 	},
 	ja: {
 		...ja,
+		script: jaScript,
+		linkroll: jaLinkroll
+	},
+	ru: {
+		...ru,
 		script: jaScript,
 		linkroll: jaLinkroll
 	}
