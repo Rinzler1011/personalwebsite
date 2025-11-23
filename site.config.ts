@@ -14,7 +14,7 @@ const config = siteConfig({
 		year: "2025"
 	},
 	i18n: {
-		locales: ["en", "zh-ch", "jp"],
+		locales: ["en", "zh-cn", "ja"],
 		defaultLocale: "en"
 	},
 	feed: {
