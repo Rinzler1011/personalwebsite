@@ -2,7 +2,7 @@ import siteConfig from "./src/utils/config";
 
 const config = siteConfig({
 	title: "Joshua Callary",
-	prologue: "Updates on my life and opinions",
+	prologue: "If I had a world of my own, everything would be nonsense. Nothing would be what it is, because everything would be what it isn’t.",
 	author: {
 		name: "Joshua Callary",
 		email: "joshcallary10@gmail.com",
@@ -14,7 +14,7 @@ const config = siteConfig({
 		year: "2025"
 	},
 	i18n: {
-		locales: ["en", "zh-cn", "ja", "ru"],
+		locales: ["en", "ru"],
 		defaultLocale: "en"
 	},
 	feed: {
