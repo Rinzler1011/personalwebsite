@@ -76,7 +76,7 @@ const notoFonts: Record<string, string> = {
 ```ts
 export default siteConfig({
     i18n: {
-        locales: ["en", "zh-cn", "ja", "tlh"],
+        locales: ["en", "ru"],
         defaultLocale: "en"
     },
 });
