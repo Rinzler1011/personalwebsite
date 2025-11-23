@@ -14,9 +14,9 @@ Modify `i18n.defaultLocale` in `site.config.ts`:
 ```ts
 export default siteConfig({
     i18n: {
-        locales: ["en", "zh-cn", "ja"],
-        // Change default language to Simplified Chinese
-        defaultLocale: "zh-cn"
+        locales: ["en", "ru"],
+        // Change default language to Russian
+        defaultLocale: "ru"
     },
 });
 ```
@@ -76,7 +76,7 @@ Add the new language to the `i18n.locales` array in `site.config.ts`:
 ```ts
 export default siteConfig({
     i18n: {
-        locales: ["en", "zh-cn", "ja", "tlh"],
+        locales: ["en", "ru"],
         defaultLocale: "en"
     },
 });
