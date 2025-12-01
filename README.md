@@ -7,7 +7,7 @@
         <small><a href="README.ru.md">Русский</a></small>
     </p>
     <p>
-        <a href="https://raw.githubusercontent.com/Rinzler1011/personalwebsite/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/tuyuritio/astro-theme-thought-lite"></a>
+        <a href="https://raw.githubusercontent.com/Rinzler1011/personalwebsite/LICENSE"><img alt="GitHub License" src="https://img.shields.io/badge/License-GPL--3.0-blue.svg"></a>
     </p>
 </div>
 
@@ -15,7 +15,6 @@
 > - `main` branch✅: Static build, can be deployed on any static hosting platform.
 > - `cloudflare` branch: Enables built-in comment system, only deployable on Cloudflare.
 
-🎬 **Live Demo**: [Vercel](https://thought-lite.vercel.app/)
 
 ## ✨ Features
 
