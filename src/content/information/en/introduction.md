@@ -1,9 +1,16 @@
-**ThoughtLite** is a modern [Astro](https://astro.build/) theme focused on content creation.
 
-The author previously used a self-built theme based on [SvelteKit](https://svelte.dev/docs/kit/introduction), but due to difficulties in i18n handling, too many redundant features, and high maintenance costs, decided to migrate to Astro.
+>[!IMPORTANT]
+> **Contact**: If you need / want to contact me (currently in Russia I don't have reliable access to some western apps so best to email me) here is my email: !!joshcallary10@gmail.com!!
 
-The theme focuses on core content-related functions, aiming to build an **efficient and transparent** space for creation.
 
-Additionally, the theme supports modern features such as **multilingual switching**, **responsive layout**, and **dynamic content filtering**, providing users with a smooth experience.
+Simply put you're probably going to be reading 90% garbage on this site but my hope is that 10% might contribute to some enjoyment for some.
 
-If you are interested in the theme, please visit the [**GitHub repository**](https://github.com/tuyuritio/astro-theme-thought-lite) for more information and quick start guide.
+Quick run down on me: 
+
+- Born in Australia, Resident of UAE, Living in Russia
+- I have a Bachelor Degree in Computer Science with Distinction 
+- I run a technology company based in UAE
+- I am currently studying Russian Language
+- I work on software projects in my spare time
+
+**For anyone that might find me the slightest bit interesting I will include my resume under the link header below**

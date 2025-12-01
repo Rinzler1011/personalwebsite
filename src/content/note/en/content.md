@@ -1,14 +1,14 @@
 ---
-title: Content Creation Guide
-timestamp: 2025-04-04 00:00:00+00:00
-series: Astro
-tags: [Content, Demo]
-description: "Comprehensive guide to the theme's three sections: Notes, Jottings, and Information, helping users understand content types and publishing standards."
+title: First Blog
+timestamp: 2025-12-01 18:10:00+00:00
+series: Life
+tags: [Life, Travel]
+description: "First Blog Post - Just a dump of the past year of my life"
 toc: true
 top: 1
 ---
 
-The theme's content can be divided into three sections: Notes, Jottings, and Information. Each section carries different content types and publishing purposes, designed to meet diverse expression and reading needs.
+The theme's  can be divided into three sections: Notes, Jottings, and Information. Each section carries different content types and publishing purposes, designed to meet diverse expression and reading needs.
 
 ## Notes
 

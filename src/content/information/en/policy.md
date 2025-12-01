@@ -2,7 +2,7 @@
 
 > **Last Updated**: Sep 20, 2025
 
-We highly value your privacy and only collect the minimal data necessary to provide basic services. This policy explains how we collect, use, and protect your data.
+I highly value your privacy and only collect the minimal data necessary to provide basic services. This policy explains how we collect, use, and protect your data.
 
 ### Types of Data Collection
 
