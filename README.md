@@ -1,14 +1,13 @@
 # Personal Website
 
 <div align="center">
-    <p>
-        <a href="https://raw.githubusercontent.com/Rinzler1011/personalwebsite/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/tuyuritio/astro-theme-thought-lite"></a>
-    </p>
     <p>Personal website for Joshua Callary for my thoughts and ideas</p>
     <p>
         <small><ins>English</ins></small>
-        <small><a href="README.zh-cn.md">简体中文</a></small>
-        <small><a href="README.ja.md">日本語</a></small>
+        <small><a href="README.ru.md">Русский</a></small>
+    </p>
+    <p>
+        <a href="https://raw.githubusercontent.com/Rinzler1011/personalwebsite/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/tuyuritio/astro-theme-thought-lite"></a>
     </p>
 </div>
 
@@ -27,80 +26,6 @@
 - [x] **Sitemap & Feed Subscription** - Automated generation of Sitemap and Atom Feed.
 - [x] **OpenGraph Support** - Built-in Open Graph meta tags for optimized social media sharing.
 
-## ⚡️ Quick Start
-
-### Using Astro Command
-
-Run the following command:
-
-```sh
-pnpm create astro --template tuyuritio/astro-theme-thought-lite
-
-# Follow the interactive prompts to create the project
-
-cd <your-project-name>
-pnpm dev
-```
-
-### Using Template
-
-1. [Use this template](https://github.com/new?template_name=astro-theme-thought-lite&template_owner=tuyuritio) to create a new repository or [fork](https://github.com/tuyuritio/astro-theme-thought-lite/fork) this repository.
-2. Run the following commands:
-
-```sh
-git clone <your-repo-url>
-cd <your-repo-name>
-pnpm install
-pnpm dev
-```
-
-## 🔧 Configuration
-
-Customize site configuration and internationalization (i18n) by modifying the following files:
-
-- `.env`
-- `astro.config.ts`
-- `site.config.ts`
-
-For basic configuration, refer to the [Site Configuration Guide](src/content/note/en/configuration.md).
-
-For i18n configuration, refer to the [Internationalization Configuration Guide](src/content/note/en/internationalization.md).
-
-## 💻 Commands
-
-The theme provides the following commonly used commands:
-
-| Command | Action |
-| --- | --- |
-| `pnpm install` | Install project dependencies |
-| `pnpm update` | Update project dependencies |
-| `pnpm new` | Create a new content file |
-| `pnpm dev` | Start the local development server (default: `http://localhost:4321`) |
-| `pnpm check` | Run Astro type checking |
-| `pnpm build` | Build the production version |
-| `pnpm preview` | Preview the built site |
-| `pnpm format` | Format code |
-| `pnpm lint` | Lint code |
-
-## 🚀 Deployment
-
-The current branch can be fully static built and deployed on any static hosting platform.
-
-For deployment methods on various platforms, refer to the [Astro Official Deployment Guide](https://docs.astro.build/en/guides/deploy/).
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/tuyuritio/astro-theme-thought-lite&project-name=astro-blog-thought-lite&repository-name=astro-blog-thought-lite&teamSlug=tuyuritios-projects)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/integration/start/deploy?repository=https://github.com/tuyuritio/astro-theme-thought-lite)
-
-## 🔄 Updates
-
-Run the following commands to sync upstream updates:
-
-```sh
-git remote add theme https://github.com/tuyuritio/astro-theme-thought-lite.git
-git fetch theme
-git merge theme/main    # Add `--allow-unrelated-histories` flag for first update
-pnpm install
-```
 
 ## ✍️ Content Creation
 
