@@ -1,7 +1,7 @@
 # Personal Website
 
 <div align="center">
-    <p>Personal website for Joshua Callary for my thoughts and ideas</p>
+    <p>Personal website for Joshua Callary - For my thoughts and ideas</p>
     <p>
         <small><ins>English</ins></small>
         <small><a href="README.ru.md">Русский</a></small>
@@ -12,8 +12,8 @@
 </div>
 
 > [!NOTE]
-> - `main` branch✅: Static build, can be deployed on any static hosting platform.
-> - `cloudflare` branch: Enables built-in comment system, only deployable on Cloudflare.
+> - Code GPL-3.0 License.
+> - All written content, blog posts, and media are © Joshua Callary, all rights reserved.
 
 
 ## ✨ Features
@@ -35,18 +35,16 @@ Content creation is centralized in the `src/content` directory, mainly including
 - `preface` - Displayed on the homepage as the first impression
 - `information` - Containing various descriptive content
 
-For details, refer to the [Content Creation Guide](src/content/note/en/content.md).
 
 ## 🤝 Contributing
 
-All kinds of contributions are welcome and appreciated!
-
-- Help promote the project or assist other users
-- Report [issues](https://github.com/tuyuritio/astro-theme-thought-lite/issues) or suggest new features
-- Improve documentation or help with internationalization (i18n)
-- Submit code contributions - see the [Code Contribution Guide](CONTRIBUTING.md) for more details
+As this is a personal websites I will not accept contributions but if you have any questions or would like to see certian content on the website you can send me an email and I will most likely respond! You can find my email on the website.
 
 ## 🙏 Acknowledgments
+
+### This project is derived from tuyuritio/astro-theme-thought-lite
+
+- The theme was orginally created by tuyuritio changes have been made to the code and I have included additions not found in the orginal code link it provided to the orginal project: https://github.com/tuyuritio/astro-theme-thought-lite
 
 ### Tech Stack
 
@@ -62,13 +60,6 @@ All kinds of contributions are welcome and appreciated!
 - **Time Handling** - [Luxon](https://moment.github.io/luxon/)
 - **Code Quality** - [Biome](https://biomejs.dev/)
 - **Static Deployment** - [Vercel](https://vercel.com/)
-
-### Inspiration
-
-- [Astro Sphere](https://github.com/markhorn-dev/astro-sphere)
-- [astro-vitesse](https://github.com/adrian-ub/astro-vitesse)
-- [Miniblog](https://github.com/nicholasdly/miniblog)
-- [AstroPaper with I18n](https://github.com/yousef8/astro-paper-i18n)
 
 ## 📜 License
 
